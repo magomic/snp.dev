@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rte_eb_etl_entity">
+    <sys_rte_eb_etl_entity action="INSERT_OR_UPDATE">
+        <child_id_field/>
+        <name>Source_x_129756_ww_week_0_ihub_import_c33c898307260110e47cf2ae7c1ed00f</name>
+        <parent_entity/>
+        <parent_id_field/>
+        <path/>
+        <run_business_rules>false</run_business_rules>
+        <synchronize_inserts>false</synchronize_inserts>
+        <sys_class_name>sys_rte_eb_etl_entity</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-03 15:39:26</sys_created_on>
+        <sys_id>654d890707260110e47cf2ae7c1ed041</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Source_x_129756_ww_week_0_ihub_import_c33c898307260110e47cf2ae7c1ed00f</sys_name>
+        <sys_package display_value="WW Weekly Diet Plan" source="x_129756_ww_week_0">aadda08b07220110e47cf2ae7c1ed0a7</sys_package>
+        <sys_policy/>
+        <sys_rte_eb_definition display_value="Recipe Importer_etl_ihub">214d4dc307260110e47cf2ae7c1ed0e4</sys_rte_eb_definition>
+        <sys_scope display_value="WW Weekly Diet Plan">aadda08b07220110e47cf2ae7c1ed0a7</sys_scope>
+        <sys_update_name>sys_rte_eb_etl_entity_654d890707260110e47cf2ae7c1ed041</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-03 15:39:26</sys_updated_on>
+        <table>x_129756_ww_week_0_ihub_import_c33c898307260110e47cf2ae7c1ed00f</table>
+    </sys_rte_eb_etl_entity>
+</record_update>

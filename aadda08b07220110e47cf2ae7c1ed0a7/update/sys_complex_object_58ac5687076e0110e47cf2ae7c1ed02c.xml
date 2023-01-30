@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FDd4ac5687626e011042d11d006692742c</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>aadda08b07220110e47cf2ae7c1ed0a7</scope_name>
+        <serialized_content>{"FlowDesigner:FDd4ac5687626e011042d11d006692742c":{"u_name":"String","u_name.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"string\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Name\",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"},"u_amount":"Number","u_amount.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"decimal\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"decimal\",\"default_value\":\"\",\"label\":\"Amount\",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"},"u_unit":"String","u_unit.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"string\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Unit\",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"},"u_recipe":"String","u_recipe.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"string\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Recipe\",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"}},"FlowDesigner:FDd4ac5687626e011042d11d006692742c.$type_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"object\",\"co_type_name\":\"FDd4ac5687626e011042d11d006692742c\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"object\",\"default_value\":\"\",\"label\":\"Excel Header\",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-03 21:26:09</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>58ac5687076e0110e47cf2ae7c1ed02c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FDd4ac5687626e011042d11d006692742c</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="WW Weekly Diet Plan" source="x_129756_ww_week_0">aadda08b07220110e47cf2ae7c1ed0a7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="WW Weekly Diet Plan">aadda08b07220110e47cf2ae7c1ed0a7</sys_scope>
+        <sys_update_name>sys_complex_object_58ac5687076e0110e47cf2ae7c1ed02c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-03 21:26:09</sys_updated_on>
+        <type>complex_object_schema</type>
+    </sys_complex_object>
+</record_update>
