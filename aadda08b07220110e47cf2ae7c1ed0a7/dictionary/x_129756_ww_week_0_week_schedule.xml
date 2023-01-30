@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="3f7e64cb07220110e47cf2ae7c1ed093" label="Week Schedule" max_length="40" name="x_129756_ww_week_0_week_schedule" type="collection">
+        <element label="Description" max_length="1024" name="description" type="string"/>
+        <element label="End date" max_length="40" name="end_date" type="glide_date_time"/>
+        <element label="Start date" max_length="40" name="start_date" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" display="true" label="Week" max_length="40" name="week" type="integer"/>
+    </element>
+</database>

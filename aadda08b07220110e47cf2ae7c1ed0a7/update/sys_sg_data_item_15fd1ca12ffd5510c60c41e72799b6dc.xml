@@ -13,14 +13,11 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-09-07 09:45:52</sys_created_on>
         <sys_id>15fd1ca12ffd5510c60c41e72799b6dc</sys_id>
-        <sys_mod_count>0</sys_mod_count>
         <sys_name>Recipes</sys_name>
         <sys_package display_value="WW Weekly Diet Plan" source="x_129756_ww_week_0">aadda08b07220110e47cf2ae7c1ed0a7</sys_package>
         <sys_policy/>
         <sys_scope display_value="WW Weekly Diet Plan">aadda08b07220110e47cf2ae7c1ed0a7</sys_scope>
         <sys_update_name>sys_sg_data_item_15fd1ca12ffd5510c60c41e72799b6dc</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-09-07 09:45:52</sys_updated_on>
         <table>x_129756_ww_week_0_recipe</table>
     </sys_sg_data_item>
     <sys_translated_text action="delete_multiple" query="documentkey=15fd1ca12ffd5510c60c41e72799b6dc"/>

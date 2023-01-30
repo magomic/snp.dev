@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="bf7ff84b07a20110e47cf2ae7c1ed0b9" label="Ww Week 0 M2m Ingredients Recipes" max_length="40" name="x_129756_ww_week_0_m2m_ingredients_recipes" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Amount" max_length="20" name="amount" type="decimal"/>
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Ingredient" max_length="32" name="ingredient" reference="x_129756_ww_week_0_ingredient" type="reference"/>
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Recipe" max_length="32" name="recipe" reference="x_129756_ww_week_0_recipe" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Unit" max_length="40" name="unit" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Blatt/Blätter" sequence="0" value="Blatt/Blätter"/>
+                <element inactive_on_update="false" label="EL, -kerne" sequence="0" value="EL, -kerne"/>
+                <element inactive_on_update="false" label="EL, gehackt" sequence="0" value="EL, gehackt"/>
+                <element inactive_on_update="false" label="g" sequence="0" value="g"/>
+                <element inactive_on_update="false" label="g, Abtropfgewicht" sequence="0" value="g, Abtropfgewicht"/>
+                <element inactive_on_update="false" label="g, braune" sequence="0" value="g, braune"/>
+                <element inactive_on_update="false" label="g, Butternut-" sequence="0" value="g, Butternut-"/>
+                <element inactive_on_update="false" label="g, grüner" sequence="0" value="g, grüner"/>
+                <element inactive_on_update="false" label="g, Mie-Nudeln" sequence="0" value="g, Mie-Nudeln"/>
+                <element inactive_on_update="false" label="g, unzubereitet" sequence="0" value="g, unzubereitet"/>
+                <element inactive_on_update="false" label="g, weißes" sequence="0" value="g, weißes"/>
+                <element inactive_on_update="false" label="Handvoll" sequence="0" value="Handvoll"/>
+                <element inactive_on_update="false" label="Handvoll, Baby-Blatt-" sequence="0" value="Handvoll, Baby-Blatt-"/>
+                <element inactive_on_update="false" label="Konserve(n) (Abtropfgewicht)" sequence="0" value="Konserve(n) (Abtropfgewicht)"/>
+                <element inactive_on_update="false" label="Konserve(n) (klein)" sequence="0" value="Konserve(n) (klein)"/>
+                <element inactive_on_update="false" label="Messerspitze(n), gerieben" sequence="0" value="Messerspitze(n), gerieben"/>
+                <element inactive_on_update="false" label="Messerspitze(n), Schale von 1/4 Bio-Zit" sequence="0" value="Messerspitze(n), Schale von 1/4 Bio-Zit"/>
+                <element inactive_on_update="false" label="ml(1 1/2 TL Instantpulver pro 150 ml)" sequence="0" value="ml(1 1/2 TL Instantpulver)"/>
+                <element inactive_on_update="false" label="ml(1 TL Instantpulver)" sequence="0" value="ml(1 TL Instantpulver)"/>
+                <element inactive_on_update="false" label="ml, vegan (1 TL Instantpulver)" sequence="0" value="ml, vegan (1 TL Instantpulver)"/>
+                <element inactive_on_update="false" label="Prise(n)" sequence="0" value="Prise(n)"/>
+                <element inactive_on_update="false" label="Scheibe(n)" sequence="0" value="Scheibe(n)"/>
+                <element inactive_on_update="false" label="Scheibe(n) (klein)" sequence="0" value="Scheibe(n) (klein)"/>
+                <element inactive_on_update="false" label="Scheibe(n), klein" sequence="0" value="Scheibe(n), klein"/>
+                <element inactive_on_update="false" label="Stange(n), grüner" sequence="0" value="Stange(n), grüner"/>
+                <element inactive_on_update="false" label="Stange(n), klein" sequence="0" value="Stange(n), klein"/>
+                <element inactive_on_update="false" label="Stück (Gewichtsklasse M)" sequence="0" value="Stück (Gewichtsklasse M)"/>
+                <element inactive_on_update="false" label="Stück (groß)" sequence="0" value="Stück (groß)"/>
+                <element inactive_on_update="false" label="Stück (klein)" sequence="0" value="Stück (klein)"/>
+                <element inactive_on_update="false" label="Stück (mittel)" sequence="0" value="Stück (mittel)"/>
+                <element inactive_on_update="false" label="Stück (mittelgroß)" sequence="0" value="Stück (mittelgroß)"/>
+                <element inactive_on_update="false" label="Stück (verzehrbarer Anteil)" sequence="0" value="Stück (verzehrbarer Anteil)"/>
+                <element inactive_on_update="false" label="Stück, Gewichtsklasse M" sequence="0" value="Stück, Gewichtsklasse M"/>
+                <element inactive_on_update="false" label="Stück, Gewichtsklasse M(Größe M)" sequence="0" value="Stück, Gewichtsklasse M(Größe M)"/>
+                <element inactive_on_update="false" label="Stück, groß" sequence="0" value="Stück, groß"/>
+                <element inactive_on_update="false" label="Stück, klein" sequence="0" value="Stück, klein"/>
+                <element inactive_on_update="false" label="Stück, klein, grün" sequence="0" value="Stück, klein, grün"/>
+                <element inactive_on_update="false" label="Stück, kleine rote" sequence="0" value="Stück, kleine rote"/>
+                <element inactive_on_update="false" label="Stück, mittel" sequence="0" value="Stück, mittel"/>
+                <element inactive_on_update="false" label="Stückchen" sequence="0" value="Stückchen"/>
+                <element inactive_on_update="false" label="Stückchen(ca. 1/2 cm)" sequence="0" value="Stückchen(ca. 1/2 cm)"/>
+                <element inactive_on_update="false" label="TL, gehackt" sequence="0" value="TL, gehackt"/>
+                <element inactive_on_update="false" label="TL, gemahlen" sequence="0" value="TL, gemahlen"/>
+                <element inactive_on_update="false" label="TL, gestiftelt" sequence="0" value="TL, gestiftelt"/>
+                <element inactive_on_update="false" label="TL, Ras el-Hanout" sequence="0" value="TL, Ras el-Hanout"/>
+                <element inactive_on_update="false" label="Zehe(n)" sequence="0" value="Zehe(n)"/>
+                <element inactive_on_update="false" label="Zweig(e)" sequence="0" value="Zweig(e)"/>
+                <element inactive_on_update="false" label="⁄2Bund" sequence="0" value="⁄2Bund"/>
+                <element inactive_on_update="false" label="⁄2Handvoll" sequence="0" value="⁄2Handvoll"/>
+                <element inactive_on_update="false" label="⁄2Stück" sequence="0" value="⁄2Stück"/>
+                <element inactive_on_update="false" label="⁄2TL" sequence="0" value="⁄2TL"/>
+                <element inactive_on_update="false" label="⁄2TL, 150 ml" sequence="0" value="⁄2TL, 150 ml"/>
+                <element inactive_on_update="false" label="⁄2TL, edelsüß" sequence="0" value="⁄2TL, edelsüß"/>
+                <element inactive_on_update="false" label="⁄2TL, Pulver, gemahlenes" sequence="0" value="⁄2TL, Pulver, gemahlenes"/>
+                <element inactive_on_update="false" label="⁄4Stück" sequence="0" value="⁄4Stück"/>
+                <element inactive_on_update="false" label="⁄4TL" sequence="0" value="⁄4TL"/>
+                <element inactive_on_update="false" label="EL" sequence="10" value="el"/>
+                <element inactive_on_update="false" label="Prise" sequence="20" value="prise"/>
+                <element inactive_on_update="false" label="TL" sequence="30" value="tl"/>
+                <element inactive_on_update="false" label="gramm" sequence="40" value="gramm"/>
+                <element inactive_on_update="false" label="Stück" sequence="50" value="st"/>
+                <element inactive_on_update="false" label="Konserve/Dose" sequence="60" value="konserve"/>
+                <element inactive_on_update="false" label="Bund" sequence="70" value="bund"/>
+                <element inactive_on_update="false" label="ml" sequence="80" value="ml"/>
+                <element inactive_on_update="false" label="L" sequence="90" value="l"/>
+                <element inactive_on_update="false" label="Kopf" sequence="100" value="kopf"/>
+                <element inactive_on_update="false" label="Zweige" sequence="110" value="zweige"/>
+                <element inactive_on_update="false" label="Blätter" sequence="120" value="blaetter"/>
+            </choice>
+        </element>
+        <element attributes="field_decorations=fn_decoration" label="Unit normalized" max_length="40" name="unit_norm" type="string"/>
+        <index name="index">
+            <element name="ingredient"/>
+        </index>
+        <index name="index2">
+            <element name="recipe"/>
+        </index>
+    </element>
+</database>

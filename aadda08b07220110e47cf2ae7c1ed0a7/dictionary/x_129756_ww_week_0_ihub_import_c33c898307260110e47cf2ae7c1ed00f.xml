@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="fb3e898707260110e47cf2ae7c1ed08b" extends="sys_import_set_row" label="Recipe Importer" max_length="40" name="x_129756_ww_week_0_ihub_import_c33c898307260110e47cf2ae7c1ed00f" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Amount" label="Amount" max_length="40" name="u_amount" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Name" label="Name" max_length="40" name="u_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Recipe" label="Recipe" max_length="40" name="u_recipe" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Unit" label="Unit" max_length="40" name="u_unit" type="string"/>
+    </element>
+</database>

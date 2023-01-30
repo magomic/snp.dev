@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="6b077c8b07620110e47cf2ae7c1ed0c7" label="Recipe" max_length="40" name="x_129756_ww_week_0_recipe" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Description" max_length="4000" name="description" type="html"/>
+        <element attributes="edge_encryption_enabled=true,pdf_cell_type=image" label="Image" max_length="40" name="image" type="user_image"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Portions" max_length="40" name="portions" type="integer"/>
+        <element display="true" label="Title" max_length="128" name="title" type="string"/>
+    </element>
+</database>

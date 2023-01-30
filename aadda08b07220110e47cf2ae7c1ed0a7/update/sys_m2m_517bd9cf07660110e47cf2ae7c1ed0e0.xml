@@ -10,14 +10,11 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-04-03 16:42:20</sys_created_on>
         <sys_id>517bd9cf07660110e47cf2ae7c1ed0e0</sys_id>
-        <sys_mod_count>0</sys_mod_count>
         <sys_name>x_129756_ww_week_0_m2m_ingredient_c_ingredients</sys_name>
         <sys_package display_value="WW Weekly Diet Plan" source="x_129756_ww_week_0">aadda08b07220110e47cf2ae7c1ed0a7</sys_package>
         <sys_policy/>
         <sys_scope display_value="WW Weekly Diet Plan">aadda08b07220110e47cf2ae7c1ed0a7</sys_scope>
         <sys_update_name>sys_m2m_517bd9cf07660110e47cf2ae7c1ed0e0</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-04-03 16:42:20</sys_updated_on>
         <to_table>x_129756_ww_week_0_ingredient_category</to_table>
     </sys_m2m>
 </record_update>

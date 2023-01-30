@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="16cef80b07a20110e47cf2ae7c1ed0da" label="ingredient" max_length="40" name="x_129756_ww_week_0_ingredient" type="collection">
+        <element display="true" label="Name" max_length="40" name="name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+    </element>
+</database>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="16080d8b07e20110e47cf2ae7c1ed0e1" label="Ww Week 0 M2m Recipes Week Schedules" max_length="40" name="x_129756_ww_week_0_m2m_recipes_week_schedules" type="collection">
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Recipe" max_length="32" name="recipe" reference="x_129756_ww_week_0_recipe" type="reference"/>
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Week Schedule" max_length="32" name="week_schedule" reference="x_129756_ww_week_0_week_schedule" type="reference"/>
+        <index name="index">
+            <element name="recipe"/>
+        </index>
+        <index name="index2">
+            <element name="week_schedule"/>
+        </index>
+    </element>
+</database>

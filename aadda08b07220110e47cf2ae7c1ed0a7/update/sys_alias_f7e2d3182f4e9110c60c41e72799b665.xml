@@ -11,14 +11,11 @@
         <sys_created_by>admin.erhan</sys_created_by>
         <sys_created_on>2022-09-16 12:01:40</sys_created_on>
         <sys_id>f7e2d3182f4e9110c60c41e72799b665</sys_id>
-        <sys_mod_count>0</sys_mod_count>
         <sys_name>x_129756_ww_week_0.GitHub</sys_name>
         <sys_package display_value="WW Weekly Diet Plan" source="x_129756_ww_week_0">aadda08b07220110e47cf2ae7c1ed0a7</sys_package>
         <sys_policy/>
         <sys_scope display_value="WW Weekly Diet Plan">aadda08b07220110e47cf2ae7c1ed0a7</sys_scope>
         <sys_update_name>sys_alias_f7e2d3182f4e9110c60c41e72799b665</sys_update_name>
-        <sys_updated_by>admin.erhan</sys_updated_by>
-        <sys_updated_on>2022-09-16 12:01:40</sys_updated_on>
         <type>credential</type>
     </sys_alias>
 </record_update>

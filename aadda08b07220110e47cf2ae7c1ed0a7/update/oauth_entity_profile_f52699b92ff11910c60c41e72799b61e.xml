@@ -10,13 +10,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-09-08 08:32:35</sys_created_on>
         <sys_id>f52699b92ff11910c60c41e72799b61e</sys_id>
-        <sys_mod_count>1</sys_mod_count>
         <sys_name>GitHub</sys_name>
         <sys_package display_value="WW Weekly Diet Plan" source="x_129756_ww_week_0">aadda08b07220110e47cf2ae7c1ed0a7</sys_package>
         <sys_policy/>
         <sys_scope display_value="WW Weekly Diet Plan">aadda08b07220110e47cf2ae7c1ed0a7</sys_scope>
         <sys_update_name>oauth_entity_profile_f52699b92ff11910c60c41e72799b61e</sys_update_name>
-        <sys_updated_by>admin.erhan</sys_updated_by>
-        <sys_updated_on>2022-09-16 12:07:52</sys_updated_on>
     </oauth_entity_profile>
 </record_update>

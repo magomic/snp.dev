@@ -24,15 +24,12 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>02fe322c07720110e47cf2ae7c1ed096</sys_id>
-        <sys_mod_count>0</sys_mod_count>
         <sys_name>WW Recipe Importer JSON</sys_name>
         <sys_overrides/>
         <sys_package display_value="WW Weekly Diet Plan" source="x_129756_ww_week_0">aadda08b07220110e47cf2ae7c1ed0a7</sys_package>
         <sys_policy/>
         <sys_scope display_value="WW Weekly Diet Plan">aadda08b07220110e47cf2ae7c1ed0a7</sys_scope>
         <sys_update_name>sys_app_module_02fe322c07720110e47cf2ae7c1ed096</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-04-08 15:47:03</sys_updated_on>
         <timeline_page/>
         <title>WW Recipe Importer JSON</title>
         <uncancelable>false</uncancelable>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="0bab59cf07660110e47cf2ae7c1ed004" label="Ww Week 0 M2m Ingredient C Ingredients" max_length="40" name="x_129756_ww_week_0_m2m_ingredient_c_ingredients" type="collection">
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Ingredient" max_length="32" name="ingredient" reference="x_129756_ww_week_0_ingredient" reference_floats="true" type="reference"/>
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Ingredient Category" max_length="32" name="ingredient_category" reference="x_129756_ww_week_0_ingredient_category" type="reference"/>
+        <index name="index">
+            <element name="ingredient"/>
+        </index>
+        <index name="index2">
+            <element name="ingredient_category"/>
+        </index>
+    </element>
+</database>

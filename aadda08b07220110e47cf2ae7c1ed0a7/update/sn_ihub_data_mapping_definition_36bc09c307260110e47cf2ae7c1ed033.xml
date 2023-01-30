@@ -1,19 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sn_ihub_data_mapping_definition">
     <sn_ihub_data_mapping_definition action="INSERT_OR_UPDATE">
         <integration_table>sys_data_source</integration_table>
+        <published_source_structure/>
         <record_id>cb3c898307260110e47cf2ae7c1ed010</record_id>
         <source_structure display_value="FDd4ac5687626e011042d11d006692742c">58ac5687076e0110e47cf2ae7c1ed02c</source_structure>
         <sys_class_name>sn_ihub_data_mapping_definition</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-04-03 15:37:04</sys_created_on>
         <sys_id>36bc09c307260110e47cf2ae7c1ed033</sys_id>
-        <sys_mod_count>4</sys_mod_count>
         <sys_name/>
         <sys_package display_value="WW Weekly Diet Plan" source="x_129756_ww_week_0">aadda08b07220110e47cf2ae7c1ed0a7</sys_package>
         <sys_policy/>
         <sys_scope display_value="WW Weekly Diet Plan">aadda08b07220110e47cf2ae7c1ed0a7</sys_scope>
         <sys_update_name>sn_ihub_data_mapping_definition_36bc09c307260110e47cf2ae7c1ed033</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-04-03 21:26:09</sys_updated_on>
     </sn_ihub_data_mapping_definition>
 </record_update>
